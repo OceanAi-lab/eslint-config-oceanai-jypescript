@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-oceanai-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OceanAi's ESLint config with TypeScript support",
   "main": "index.js",
   "scripts": {
